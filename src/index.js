@@ -10,7 +10,6 @@ ReactDOM.render(
   <React.StrictMode>
     <Router forceRefresh={true}>
     <App />
-    
     </Router>
   </React.StrictMode>,
   document.getElementById( 'root' )
