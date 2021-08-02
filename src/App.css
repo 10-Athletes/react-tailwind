@@ -1,3 +1,8 @@
+.LandingBackgroundImage {
+  background: url('./styles/bg.jpg');
+  height:100%;
+}
+
 .App {
   text-align: center;
 }
